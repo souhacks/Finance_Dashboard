@@ -18,7 +18,7 @@ In financial management, understanding the distribution of income, expenses, and
 ## Dataset
 The dashboard utilizes a dataset with the following columns:
 
-**Type:** The type of financial entry (Income, Expense, Savings, etc.).
+**Type:** The type of financial entry (Income, Expense, Savings, etc.)
 
 **Component:** The specific component or category within each type (e.g., Salary, Utilities, Investments).
 
